@@ -9,7 +9,7 @@ This project is part of my final work as a Computer Science student, where I ana
 
 ### 1. Data Acquisition and Preparation
 
-- **`taking new data low memory.py`**: This script processes raw data from zipped text files, extracting and filtering relevant information about lightning occurrences. It outputs a consolidated CSV file with the required data fields.
+- **`taking_raw_data.py`**: This script processes raw data from zipped text files, extracting and filtering relevant information about lightning occurrences. It outputs a consolidated CSV file with the required data fields.
 
 - **`split_to_month.py`**: This script organizes the filtered lightning data by splitting it into monthly files, making it easier to analyze trends and correlations on a month-by-month basis.
 
