@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is part of my final work as a Computer Science student, where I analyzed the correlation between lightning occurrences and pollutant levels in Israel. The project involved processing large datasets, filtering and validating geographic data, and generating various visualizations and correlations to understand the relationship between environmental factors and lightning activity.
+This project is part of our final work as a Computer Science students, where we analyzed the correlation between lightning occurrences and pollutant levels in Israel. The project involved processing large datasets, filtering and validating geographic data, and generating various visualizations and correlations to understand the relationship between environmental factors and lightning activity.
 
 ## Project Structure
 
@@ -43,7 +43,7 @@ This project is part of my final work as a Computer Science student, where I ana
 
 ### 5. Correlation Analysis
 
-- **`min-max_correlation_with_shift_option.py`**: Analyzes the correlation between lightning activity and pollutant levels with an optional time shift. It generates visualizations to display these correlations.
+- **`min-max_correlation_with_shift_option.py`**: Analyzes the correlation between lightning activity and pollutant levels with an optional time shift. It generates visualizations using bar plots to display these correlations.
 
 - **`heat_map.py`**: Generates a comprehensive correlation heatmap between lightning occurrences and pollutant levels across different regions.
 
